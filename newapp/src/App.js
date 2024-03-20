@@ -10,7 +10,6 @@ import Nav from './components/Nav';
 
 
 
-
 function App() {
   const name ="shubanu"
   const adj ="beautiful"
