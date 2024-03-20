@@ -1,0 +1,27 @@
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+nav{
+    display: flex; 
+    
+    background-color: rgb(215, 161, 169);
+    padding: 10px;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    margin: 0; 
+    padding: 0; 
+    flex-grow: 1; 
+    justify-content: flex-end; 
+}
+li{
+    padding: 10px;
+    font-size: large;
+}
+.logo {
+  margin-right: 20px; 
+}
